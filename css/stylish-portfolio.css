@@ -45,9 +45,19 @@ body {
 }
 
 .btn-invis {
+	padding-top: 5px;
+	padding-bottom: 5px;
 	background-color: rgba(0,0,0,0);
 	border: none;
 	
+}
+.btn-invis:hover,
+.btn-invis:focus,
+.btn-invis:active {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.7);
 }
 
 .btn-light {
