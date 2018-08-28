@@ -197,8 +197,8 @@
           -->
 
           <h1 id="the-rules-tkservers-darkrp">The Rules</h1>
-          <h5 id="_all-players-and-admins-are-responsible-for-knowing-these-rules-before-playing-on-the-server_"><em>Please understand that, while these rules listed below are excellent guidelines, a warcraft server by nature differs in gameplay day-to-day: it is impossible to list every single rule to be followed. <br>
-          If an administrative figure requests you to follow a temporary injunction, <strong>you must listen!</strong></em></h5>
+          <h5 id="_all-players-and-admins-are-responsible-for-knowing-these-rules-before-playing-on-the-server_"><em>Please understand that, while these rules listed below are excellent guidelines, a warcraft server by nature differs in gameplay day-to-day: it is impossible to list every single rule to be followed. <br>
+          If an administrative figure requests you to follow a temporary injunction, <strong>you must listen!</strong></em></h5>
           <ol>
           <li><em>The Basics</em><ol>
           <li>We try to be family friendly. You may swear to a civil extent. Swearing excessivly will be punished with a polite mention to behave.</li>
@@ -209,7 +209,7 @@
               <li>DDoS (Direct Denial of Service) Threats, DoS Threats, or anything attack against the Server or a Player. (Instant Permanent Ban)          </li>
             </ol>
           </li>
-          <li>As said above, <strong>do not</strong> argue with an admin. If you feel you have been wronged, there is an abuse report forum at wcsgo.github.io.<br>
+          <li>As said above, <strong>do not</strong> argue with an admin. If you feel you have been wronged, there is an abuse report forum at wcsgo.github.io.<br>
           </li>
           <li>Begging admins for anything.<br>
           </li>
